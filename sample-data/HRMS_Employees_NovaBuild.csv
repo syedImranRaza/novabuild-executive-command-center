@@ -1,0 +1,86 @@
+EmployeeID,EmployeeName,DepartmentID,Designation,Region,HireDate,Salary,OvertimeEligible,ManagerID,EmploymentStatus,SkillCategory
+EMP001,Ahmed Al Mansouri,DEPT-ENG,Senior Project Engineer,UAE,2018-03-15,9500,TRUE,EMP010,Active,Structural Engineering
+EMP002,Sarah Ali,DEPT-PROC,Procurement Officer,UAE,2019-07-01,5200,FALSE,EMP015,Active,Supply Chain
+EMP003,John Mathew,DEPT-FIN,Finance Analyst,UAE,2020-01-10,7100,FALSE,EMP020,Active,Financial Analysis
+EMP004,Khalid Al Harbi,DEPT-OPS,Operations Manager,Saudi Arabia,2016-05-20,14500,FALSE,EMP050,Active,Project Management
+EMP005,Fatima Nasser,DEPT-HR,HR Business Partner,UAE,2019-11-03,7800,FALSE,EMP025,Active,Talent Management
+EMP006,Rajan Pillai,DEPT-ENG,Civil Engineer,Qatar,2021-02-14,7200,TRUE,EMP011,Active,Civil Engineering
+EMP007,Mohammed Al Dosari,DEPT-OPS,Site Supervisor,Qatar,2020-06-01,6100,TRUE,EMP051,Active,Site Operations
+EMP008,Priya Menon,DEPT-FIN,Senior Finance Analyst,UAE,2017-08-22,9200,FALSE,EMP020,Active,Financial Reporting
+EMP009,Hassan Al Otaibi,DEPT-PROC,Procurement Manager,Saudi Arabia,2015-04-10,13500,FALSE,EMP050,Active,Vendor Management
+EMP010,Omar Shaikh,DEPT-ENG,Engineering Manager,UAE,2013-09-01,18000,FALSE,EMP060,Active,Project Engineering
+EMP011,Arun Thomas,DEPT-ENG,Engineering Manager,Qatar,2014-03-17,17500,FALSE,EMP060,Active,Structural Engineering
+EMP012,Layla Al Rashidi,DEPT-HR,Recruitment Specialist,Saudi Arabia,2021-05-25,5800,FALSE,EMP026,Active,Recruitment
+EMP013,David Fernandez,DEPT-OPS,Project Coordinator,UAE,2022-01-10,5500,TRUE,EMP010,Active,Project Coordination
+EMP014,Noura Al Suwaidi,DEPT-FIN,Finance Manager,UAE,2014-11-30,16500,FALSE,EMP060,Active,Financial Management
+EMP015,Tariq Mahmood,DEPT-PROC,Procurement Manager,UAE,2015-07-19,13800,FALSE,EMP060,Active,Contract Management
+EMP016,Sanjay Gupta,DEPT-ENG,Structural Engineer,Saudi Arabia,2020-03-05,8100,TRUE,EMP030,Active,Structural Engineering
+EMP017,Amira Al Jabri,DEPT-HR,HR Manager,Qatar,2016-08-14,15000,FALSE,EMP060,Active,Human Resources
+EMP018,Carlos Mendez,DEPT-OPS,HSE Manager,Saudi Arabia,2017-02-28,12500,FALSE,EMP050,Active,Health & Safety
+EMP019,Hana Al Kuwari,DEPT-FIN,Budget Analyst,Qatar,2021-09-01,6400,FALSE,EMP014,Active,Budgeting
+EMP020,Vijay Nair,DEPT-FIN,Finance Manager,Qatar,2015-12-01,16000,FALSE,EMP060,Active,Financial Management
+EMP021,Walid Al Zahrani,DEPT-ENG,MEP Engineer,Saudi Arabia,2019-04-22,8800,TRUE,EMP030,Active,MEP Engineering
+EMP022,Elena Petrova,DEPT-HR,Training Coordinator,UAE,2022-03-15,5100,FALSE,EMP025,Active,Learning & Development
+EMP023,Suresh Kumar,DEPT-PROC,Senior Procurement Officer,Qatar,2018-10-07,7600,FALSE,EMP009,Active,Supply Chain
+EMP024,Mariam Al Ameeri,DEPT-OPS,Document Controller,UAE,2020-08-19,4800,FALSE,EMP051,Active,Document Management
+EMP025,Reem Al Farsi,DEPT-HR,HR Manager,UAE,2014-06-23,15500,FALSE,EMP060,Active,Human Resources
+EMP026,Abdullah Al Ghamdi,DEPT-HR,HR Manager,Saudi Arabia,2015-01-12,15200,FALSE,EMP060,Active,Human Resources
+EMP027,Patrick O'Brien,DEPT-ENG,Geotechnical Engineer,Qatar,2020-11-30,9100,TRUE,EMP011,Active,Geotechnical Engineering
+EMP028,Nadia Hassan,DEPT-FIN,Accounts Payable Analyst,Saudi Arabia,2021-07-04,5600,FALSE,EMP020,Active,Accounts Payable
+EMP029,Faisal Al Mutairi,DEPT-OPS,Senior Site Engineer,Saudi Arabia,2018-05-16,8400,TRUE,EMP004,Active,Site Engineering
+EMP030,Ramesh Iyer,DEPT-ENG,Engineering Manager,Saudi Arabia,2013-07-08,17800,FALSE,EMP060,Active,Civil Engineering
+EMP031,Sheikha Al Nuaimi,DEPT-PROC,Contracts Specialist,UAE,2019-09-25,7300,FALSE,EMP015,Active,Contract Management
+EMP032,Tom Bradley,DEPT-OPS,Project Manager,UAE,2016-04-11,15000,FALSE,EMP060,Active,Project Management
+EMP033,Yasmin Al Balushi,DEPT-HR,Payroll Specialist,UAE,2020-12-01,6000,FALSE,EMP025,Active,Payroll Management
+EMP034,Imran Sheikh,DEPT-ENG,QA/QC Engineer,Qatar,2021-03-22,7700,TRUE,EMP011,Active,Quality Assurance
+EMP035,Grace Okafor,DEPT-FIN,Senior Accountant,Qatar,2018-02-14,8900,FALSE,EMP020,Active,Accounting
+EMP036,Salim Al Rashdi,DEPT-OPS,Operations Director,Saudi Arabia,2012-06-01,22000,FALSE,EMP070,Active,Operations Management
+EMP037,Meera Pillai,DEPT-PROC,Vendor Relations Officer,UAE,2022-05-10,5000,FALSE,EMP015,Active,Vendor Management
+EMP038,Badr Al Shehri,DEPT-ENG,BIM Coordinator,Saudi Arabia,2021-01-18,8300,TRUE,EMP030,Active,BIM & Modelling
+EMP039,Lena Schmidt,DEPT-FIN,Cost Controller,UAE,2019-06-30,8700,FALSE,EMP014,Active,Cost Control
+EMP040,Yousef Al Mulla,DEPT-OPS,Project Manager,Qatar,2017-10-05,15200,FALSE,EMP060,Active,Project Management
+EMP041,Anita Sharma,DEPT-HR,HR Generalist,Saudi Arabia,2021-08-12,5400,FALSE,EMP026,Active,HR Operations
+EMP042,Khaled Al Sulaiti,DEPT-PROC,Senior Contracts Manager,Qatar,2016-03-28,14000,FALSE,EMP060,Active,Contract Management
+EMP043,Michael Torres,DEPT-ENG,Planning Engineer,UAE,2020-07-15,8200,TRUE,EMP010,Active,Project Planning
+EMP044,Moza Al Thani,DEPT-OPS,HSE Officer,Qatar,2022-02-01,6200,TRUE,EMP040,Active,Health & Safety
+EMP045,Deepak Varma,DEPT-FIN,Treasury Analyst,Saudi Arabia,2020-09-14,6800,FALSE,EMP020,Active,Treasury Management
+EMP046,Nawaf Al Enezi,DEPT-ENG,Electrical Engineer,Saudi Arabia,2019-12-03,8500,TRUE,EMP030,Active,Electrical Engineering
+EMP047,Sandra Kowalski,DEPT-HR,Compensation & Benefits Analyst,Qatar,2021-11-22,6500,FALSE,EMP017,Active,Compensation & Benefits
+EMP048,Hamad Al Marri,DEPT-OPS,Site Manager,Qatar,2018-01-09,11500,TRUE,EMP040,Active,Site Management
+EMP049,Rohan D'Souza,DEPT-PROC,Purchasing Officer,Saudi Arabia,2022-04-18,4900,TRUE,EMP009,Active,Purchasing
+EMP050,Jassim Al Kuwari,DEPT-OPS,Operations Director,Qatar,2011-09-01,23000,FALSE,EMP070,Active,Operations Management
+EMP051,Nasser Al Blooshi,DEPT-OPS,Operations Manager,UAE,2014-04-14,14200,FALSE,EMP060,Active,Project Management
+EMP052,Pooja Krishnan,DEPT-FIN,Financial Controller,Saudi Arabia,2016-10-20,17200,FALSE,EMP060,Active,Financial Control
+EMP053,Ali Al Shamsi,DEPT-ENG,Structural Design Engineer,UAE,2020-05-06,8600,TRUE,EMP010,Active,Structural Engineering
+EMP054,Tatiana Volkova,DEPT-HR,HR Analyst,UAE,2022-07-01,5300,FALSE,EMP025,Active,HR Analytics
+EMP055,Saad Al Qahtani,DEPT-PROC,Logistics Coordinator,Saudi Arabia,2021-06-14,5700,TRUE,EMP009,Active,Logistics
+EMP056,Brian Nguyen,DEPT-ENG,Environmental Engineer,Qatar,2020-10-27,7900,TRUE,EMP011,Active,Environmental Engineering
+EMP057,Hessa Al Mansoori,DEPT-FIN,Accounts Receivable Analyst,UAE,2021-04-05,5500,FALSE,EMP014,Active,Accounts Receivable
+EMP058,Tariq Al Barwani,DEPT-OPS,Quantity Surveyor,UAE,2019-03-11,8100,TRUE,EMP051,Active,Quantity Surveying
+EMP059,Divya Nambiar,DEPT-PROC,Contract Administrator,UAE,2020-02-17,6900,FALSE,EMP015,Active,Contract Administration
+EMP060,James Harrington,DEPT-OPS,Chief Operations Officer,UAE,2010-01-05,35000,FALSE,EMP070,Active,Executive Management
+EMP061,Majed Al Rasheed,DEPT-ENG,Roads & Infrastructure Engineer,Saudi Arabia,2018-08-20,8400,TRUE,EMP030,Active,Infrastructure Engineering
+EMP062,Shereen Abdallah,DEPT-HR,Employee Relations Specialist,Qatar,2021-10-13,6100,FALSE,EMP017,Active,Employee Relations
+EMP063,Kapil Mehta,DEPT-FIN,Senior Cost Analyst,Qatar,2017-05-29,9400,FALSE,EMP020,Active,Cost Analysis
+EMP064,Ziad Al Harthy,DEPT-OPS,Commissioning Manager,Qatar,2016-11-07,13800,FALSE,EMP050,Active,Commissioning
+EMP065,Ingrid Larsen,DEPT-PROC,Category Manager,UAE,2018-06-18,11200,FALSE,EMP015,Active,Category Management
+EMP066,Mubarak Al Nuaimi,DEPT-ENG,Survey Engineer,UAE,2022-08-01,7000,TRUE,EMP010,Active,Surveying
+EMP067,Amelia Watson,DEPT-FIN,Internal Auditor,Saudi Arabia,2019-01-21,8800,FALSE,EMP052,Active,Internal Audit
+EMP068,Rashid Al Balushi,DEPT-OPS,Planning Manager,Saudi Arabia,2017-07-03,12800,FALSE,EMP036,Active,Project Planning
+EMP069,Sunil Bhat,DEPT-PROC,Supplier Development Officer,Qatar,2021-12-06,5900,FALSE,EMP042,Active,Supplier Development
+EMP070,Dr. Richard Cole,DEPT-OPS,Chief Executive Officer,UAE,2009-06-01,55000,FALSE,,Active,Executive Leadership
+EMP071,Maryam Al Zaabi,DEPT-HR,Workforce Planning Analyst,UAE,2022-09-15,5700,FALSE,EMP025,Active,Workforce Planning
+EMP072,Faris Al Otaibi,DEPT-ENG,Project Engineer,Saudi Arabia,2022-10-01,6500,TRUE,EMP030,Active,Project Engineering
+EMP073,Chidi Obi,DEPT-OPS,Construction Manager,Qatar,2017-03-27,13200,FALSE,EMP050,Active,Construction Management
+EMP074,Hind Al Romaithi,DEPT-FIN,VAT & Tax Specialist,UAE,2020-04-13,7400,FALSE,EMP014,Active,Taxation
+EMP075,Ivan Petrov,DEPT-ENG,Facade Engineer,UAE,2019-08-05,8700,TRUE,EMP010,Active,Facade Engineering
+EMP076,Lubna Al Sayed,DEPT-PROC,Procurement Analyst,Qatar,2022-06-20,5100,FALSE,EMP042,Active,Procurement Analysis
+EMP077,Naveen Raj,DEPT-FIN,Project Accountant,Saudi Arabia,2020-11-09,6700,FALSE,EMP052,Active,Project Accounting
+EMP078,Abdulaziz Al Fahad,DEPT-OPS,Deputy Project Manager,Saudi Arabia,2018-09-24,11800,FALSE,EMP036,Active,Project Management
+EMP079,Christine Park,DEPT-HR,L&D Manager,Saudi Arabia,2017-12-11,13000,FALSE,EMP026,Active,Learning & Development
+EMP080,Essa Al Kuwari,DEPT-ENG,Drainage Engineer,Qatar,2021-07-19,7500,TRUE,EMP011,Active,Drainage Engineering
+EMP081,Prakash Nair,DEPT-OPS,Logistics & Materials Manager,UAE,2016-02-08,12000,FALSE,EMP051,Active,Logistics Management
+EMP082,Nouf Al Shammari,DEPT-FIN,Payroll Accountant,Saudi Arabia,2022-01-25,5800,FALSE,EMP052,Active,Payroll Accounting
+EMP083,Stefan Müller,DEPT-ENG,Tunnel Engineer,Qatar,2020-08-31,9800,TRUE,EMP011,Active,Tunnel Engineering
+EMP084,Aisha Al Mazrouei,DEPT-HR,HR Coordinator,UAE,2023-01-10,4700,FALSE,EMP025,Active,HR Operations
+EMP085,Vikram Singh,DEPT-PROC,Import & Export Coordinator,Saudi Arabia,2021-03-08,5600,TRUE,EMP009,Active,Import & Export

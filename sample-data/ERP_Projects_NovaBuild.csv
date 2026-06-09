@@ -1,0 +1,16 @@
+ProjectID,ProjectName,ClientName,Region,ProjectManagerID,DepartmentID,StartDate,PlannedEndDate,ActualEndDate,ProjectStatus,ContractValue,BudgetCost,ActualCost,PercentComplete,DelayDays,RiskLevel,SiteLocation
+PRJ001,Dubai Metro Extension,Roads & Transport Authority,UAE,PM001,DEPT-OPS,2023-03-01,2024-06-30,2024-07-14,In Progress,12000000,9500000,10200000,82,14,High,Dubai - Al Quoz
+PRJ002,Riyadh Tower Phase 2,Saudi Binladin Group,Saudi Arabia,PM002,DEPT-ENG,2023-06-15,2024-12-31,,In Progress,8500000,7000000,6500000,65,0,Medium,Riyadh - King Fahd District
+PRJ003,Doha Smart Mall,Qatari Diar Real Estate,Qatar,PM003,DEPT-OPS,2023-01-10,2024-03-31,2024-04-23,Completed,6400000,5100000,5900000,100,23,High,Doha - Lusail City
+PRJ004,Abu Dhabi Waterfront Promenade,Abu Dhabi City Municipality,UAE,PM004,DEPT-ENG,2023-09-01,2025-02-28,,In Progress,18500000,15000000,9200000,51,0,Medium,Abu Dhabi - Corniche Road
+PRJ005,Jeddah Coastal Highway Upgrade,Saudi Ministry of Transport,Saudi Arabia,PM005,DEPT-OPS,2022-11-01,2024-08-31,2024-10-15,Completed,22000000,18500000,20100000,100,45,High,Jeddah - King Abdulaziz Road
+PRJ006,Lusail Stadium Finishing Works,Qatar Football Association,Qatar,PM001,DEPT-ENG,2023-07-01,2024-05-31,2024-06-08,Completed,9750000,8200000,8500000,100,8,Low,Lusail - Sports Boulevard
+PRJ007,Dubai Industrial Park Expansion,Dubai Investments PJSC,UAE,PM006,DEPT-OPS,2024-01-15,2025-06-30,,In Progress,31000000,26000000,14800000,47,0,Medium,Dubai - Jebel Ali
+PRJ008,Riyadh Metro Depot Fit-Out,Arriyadh Development Authority,Saudi Arabia,PM002,DEPT-PROC,2023-04-01,2024-10-31,2024-11-19,Completed,7800000,6500000,7100000,100,19,Medium,Riyadh - Al Malaz District
+PRJ009,Al Wakrah Port Expansion,Qatar Ports Management Company,Qatar,PM007,DEPT-ENG,2023-10-01,2025-04-30,,In Progress,42000000,35000000,19500000,56,0,High,Al Wakrah - Industrial Zone
+PRJ010,Sharjah University Campus Phase 3,University of Sharjah,UAE,PM003,DEPT-ENG,2024-02-01,2025-08-31,,In Progress,14200000,11800000,5300000,38,0,Low,Sharjah - University City
+PRJ011,NEOM Residential Zone A Infrastructure,NEOM Company,Saudi Arabia,PM008,DEPT-OPS,2023-08-15,2025-12-31,,In Progress,95000000,82000000,47000000,58,31,High,NEOM - Tabuk Province
+PRJ012,Doha Education City Connector Road,Qatar Foundation,Qatar,PM004,DEPT-OPS,2023-05-01,2024-07-31,2024-07-31,Completed,5600000,4800000,4750000,100,0,Low,Doha - Education City
+PRJ013,Dubai Creek Tower Foundation Works,Emaar Properties,UAE,PM009,DEPT-ENG,2024-03-01,2025-11-30,,In Progress,67000000,55000000,21000000,33,0,High,Dubai - Dubai Creek Harbour
+PRJ014,Al Khobar Mixed-Use Complex,Zamil Group,Saudi Arabia,PM005,DEPT-FIN,2023-12-01,2025-06-30,,In Progress,19500000,16500000,10200000,60,17,Medium,Al Khobar - Prince Turki Road
+PRJ015,Mesaieed Industrial Facility Upgrade,Industries Qatar,Qatar,PM006,DEPT-PROC,2024-01-01,2025-03-31,,In Progress,11300000,9400000,6800000,70,0,Low,Mesaieed - Industrial City
